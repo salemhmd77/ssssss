@@ -1,4 +1,4 @@
-// file: script.js
+// file: info.js
 const loveText = document.querySelector('.love-text');
 
 loveText.addEventListener('click', () => {
